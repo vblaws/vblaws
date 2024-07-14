@@ -1,8 +1,7 @@
 - 👋 Hi, I’m hexiaolei  
-- 👀 I’m interested in programing(Java)
-- 🌱 I’m currently learning codding
+- 🌱 I’m currently learning programming
 - 😄 Pronouns: Mr He
-
+- 👀 I want to become a full stack engineer and am currently studying Java
 
 我使用的外设(准备一直使用的,直到出现问题):
 - 键盘:微星gk50z
